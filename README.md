@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: QQ 284972721 / WeChat IWDreamWalker
 - 😄 Pronouns: ...
 - ⚡ Fun fact: no for now
-
-
-My blog https://chaelkenvin.github.io/ChaelKenvin/
