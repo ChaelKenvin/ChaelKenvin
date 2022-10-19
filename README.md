@@ -2,7 +2,7 @@
 **ChaelKenvin/ChaelKenvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A brief introduction here. :eyes:
+:eyes: A brief introduction here. 
 
 # Major
 Digital Media Technology.
@@ -10,15 +10,16 @@ Digital Media Technology.
 Mainly working on video game design and development.
 
 # Projects:
-* IslandWar(TableTop Game)
-* Honkey Test
-* DigiCity
-* FlippedDream
+* IslandWar(TableTop Game) | 2012.12 ~ now
+* Honkey Test | 2021.03 ~ 2021.06
+* DigiCity | 2022.01 ~ now
+* FlippedDream | Graduation project
 
 # Learning:
-* C++ (for Uneal Engine)
+* C++ (for Unreal Engine)
 * Blender
 * World Machine
+* Digital painting
 * Substance 3D Designer
 * Substance 3D Painter
 * Unreal Engine
