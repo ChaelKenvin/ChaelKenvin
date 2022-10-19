@@ -6,6 +6,7 @@ A brief introduction here. :eyes:
 
 # Major
 Digital Media Technology.
+
 Mainly working on video game design and development.
 
 # Projects:
