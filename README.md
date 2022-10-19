@@ -26,6 +26,6 @@ Mainly working on video game design and development.
 * Substance 3D Painter
 * Unreal Engine
 
-# Websites:
+# Websites
 * [Artstation](https://www.artstation.com/chaelkenway2001)
 * [Blog](https://chaelkenway.wordpress.com)
