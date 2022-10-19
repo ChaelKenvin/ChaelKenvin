@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi there 👋 https://img.shields.io/badge/helloworld-hello-green
 
 <!--
 **ChaelKenvin/ChaelKenvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Major
 Digital Media Technology.
+
+# Projects:
+* IslandWar(TableTop Game)
+* Honkey Test
+* DigiCity
+* FlippedDream
 
 # Interested:
 * Game design and development
