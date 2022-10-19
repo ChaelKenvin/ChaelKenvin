@@ -9,7 +9,7 @@ Digital Media Technology.
 
 Mainly working on video game design and development.
 
-# Projects:
+# Projects
 | Name | Time | Development Platform |
 |  ----  | ----  | --- |
 | *IslandWar* | 2012.12 ~ now | TableTop |
@@ -17,7 +17,7 @@ Mainly working on video game design and development.
 | *DigiCity* | 2022.01 ~ now | UE |
 | *FlippedDream* | Graduation project | UE |
 
-# Learning:
+# Learning
 * C++ (for Unreal Engine)
 * Blender
 * World Machine
