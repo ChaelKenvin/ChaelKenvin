@@ -1,10 +1,14 @@
-### Hi there 👋 :sunny:
+:sunny: A Brief Introduction
 
 <!--
 **ChaelKenvin/ChaelKenvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+A brief introduction here. :eyes:
+
 # Major
 Digital Media Technology.
+Mainly working on video game design and development.
 
 # Projects:
 * IslandWar(TableTop Game)
@@ -12,25 +16,13 @@ Digital Media Technology.
 * DigiCity
 * FlippedDream
 
-# Interested:
-* Game design and development
-* Digital art
-* Photography
-## Games
-* *Assassin's Creed Series*
-* *Door Kickers*
-* *FINAL FANTAST XV*
-* *Journey*
-## Anime
-* *Puella Magi Madoka Magica*
-
 # Learning:
+* C++ (for Uneal Engine)
 * Blender
 * World Machine
 * Substance 3D Designer
 * Substance 3D Painter
 * Unreal Engine
-* C++
 
 # Websites:
 * [Artstation](https://www.artstation.com/chaelkenway2001)
