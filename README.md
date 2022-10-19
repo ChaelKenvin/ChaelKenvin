@@ -10,11 +10,12 @@ Digital Media Technology.
 Mainly working on video game design and development.
 
 # Projects:
-Name | Time | Development Platform
-*IslandWar* | 2012.12 ~ now | TableTop
-*Ice Honkey Test* | 2021.03 ~ 2021.06 | UE
-*DigiCity* | 2022.01 ~ now | UE
-*FlippedDream* | Graduation project | UE
+| Name | Time | Development Platform |
+|  ----  | ----  | --- |
+| *IslandWar* | 2012.12 ~ now | TableTop |
+| *Ice Honkey Test* | 2021.03 ~ 2021.06 | UE |
+| *DigiCity* | 2022.01 ~ now | UE |
+| *FlippedDream* | Graduation project | UE |
 
 # Learning:
 * C++ (for Unreal Engine)
