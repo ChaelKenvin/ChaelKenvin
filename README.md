@@ -1,5 +1,5 @@
 <!--
-**ChaelKenvin/ChaelKenvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChaelKenway/ChaelKenway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 :eyes: A brief introduction here. 
@@ -22,7 +22,7 @@ Mainly working on video game design and development.
 * C++ (for Unreal Engine)
 * Blender
 * World Machine
-* Digital painting
+* Clip Studio Paint
 * Substance 3D Designer
 * Substance 3D Painter
 * Unreal Engine
