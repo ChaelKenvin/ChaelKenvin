@@ -7,7 +7,7 @@
 # Major
 Digital Media Technology.
 
-Mainly working on video game design and development.
+Mainly working on game design and development.
 
 # Projects
 | Name | Time | Development Platform |
