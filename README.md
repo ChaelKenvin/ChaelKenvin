@@ -21,8 +21,8 @@ Mainly working on game design and development.
 # Learning
 * C++ (for Unreal Engine)
 * Blender
-* World Machine
-* Clip Studio Paint
+* Instant Terra
+* Artstudio Pro
 * Substance 3D Designer
 * Substance 3D Painter
 * Unreal Engine
