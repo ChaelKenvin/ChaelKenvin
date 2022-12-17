@@ -22,6 +22,7 @@ Mainly working on game design and development.
 * C++ (for Unreal Engine)
 * Blender
 * Instant Terra
+* Clip Studio Paint
 * Artstudio Pro
 * Substance 3D Designer
 * Substance 3D Painter
