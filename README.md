@@ -16,7 +16,7 @@ Mainly working on game design and development.
 | *Ice Honkey Test* | 2021.03 ~ 2021.06 | UE |
 | *DigiCity* | 2022.01 ~ now | UE |
 | *FlippedDream* | Graduation project | UE |
-| *IslandWar:Reborn* |  | UE |
+| *Project: DreamWalker* |  | UE |
 
 # Learning
 * C++ (for Unreal Engine)
@@ -31,4 +31,5 @@ Mainly working on game design and development.
 # Websites
 * [Artstation](https://www.artstation.com/chaelkenway2001)
 * [Blog](https://chaelkenway.wordpress.com)
+* [chaelkenway.com](http://www.chaelkenway.com)
 * 微信公众号：行梦灯花
