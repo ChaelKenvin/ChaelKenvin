@@ -21,6 +21,8 @@ Mainly working on game design and development.
 # Learning
 * C++ (for Unreal Engine)
 * Blender
+* Nomad Sculpt
+* Tree It
 * Instant Terra
 * Clip Studio Paint
 * Artstudio Pro
