@@ -20,6 +20,7 @@ Mainly working on game design and development.
 
 # Learning
 * C++ (for Unreal Engine)
+* ~~HLSL~~
 * Blender
 * Nomad Sculpt
 * Tree It
