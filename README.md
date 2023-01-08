@@ -4,7 +4,7 @@
 
 :eyes: A brief introduction here. 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg) st/nd/rd/th vistor.
+You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg) st/nd/rd/th visitor.
 
 # About me 
 
