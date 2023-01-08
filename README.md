@@ -10,7 +10,9 @@ Major: Digital Media Technology.
 
 Mainly working on game design and development.
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaelKenway&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
 
