@@ -4,14 +4,14 @@
 
 :eyes: A brief introduction here. 
 
-Vistor Count: ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg) st/nd/rd/th vistor.
 
 # About me 
 
 Senior who majors in Digital Media Technology.
 
 Mainly working on game design and development.
-s
+
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaelKenway&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
