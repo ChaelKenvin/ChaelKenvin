@@ -4,15 +4,15 @@
 
 :eyes: A brief introduction here. 
 
+Vistor Count: ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg)
+
 # About me 
 
-Major: Digital Media Technology.
+Senior who majors in Digital Media Technology.
 
 Mainly working on game design and development.
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaelKenway&show_icons=true&theme=tokyonight)
-
-![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
 
