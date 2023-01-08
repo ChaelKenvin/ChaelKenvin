@@ -4,14 +4,15 @@
 
 :eyes: A brief introduction here. 
 
-# Major
-Digital Media Technology.
+# About me 
+
+Major: Digital Media Technology.
 
 Mainly working on game design and development.
 
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
 
 # Projects
 | Name | Time | Development Platform |
