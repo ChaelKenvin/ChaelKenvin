@@ -16,7 +16,7 @@ Mainly working on game design and development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChaelKenway)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChaelKenway&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Projects
 | Name | Time | Development Platform |
