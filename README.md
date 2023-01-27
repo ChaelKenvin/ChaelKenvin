@@ -4,7 +4,7 @@
 
 :eyes: A brief introduction here. 
 
-![](https://cdn.jsdelivr.net/gh/ChaelKenway/awesome-image-bed@main/meme1)
+![meme here](https://cdn.jsdelivr.net/gh/ChaelKenway/awesome-image-bed@main/meme1.jpg)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg) st/nd/rd/th visitor.
 
