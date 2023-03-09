@@ -48,4 +48,4 @@ Mainly working on game design and development.
 * [chaelkenway.com](http://www.chaelkenway.com)
 * 微信公众号：行梦灯花
 
-2023年继续努力[。](https://chaelkenway.wordpress.com/2022/12/31/ten-years/)
+2023年继续努力。
