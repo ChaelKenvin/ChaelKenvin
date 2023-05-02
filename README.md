@@ -24,10 +24,10 @@ Mainly working on game design and development.
 | Name | Time | Development Platform |
 |  ----  | ----  | --- |
 | *IslandWar* | 2012.12 ~ now | TableTop |
-| *Ice Honkey Test* | 2021.03 ~ 2021.06 | UE |
-| *DigiCity* | 2022.01 ~ now | UE |
-| *FlippedDream* | Graduation project | UE |
-| *Project: DreamWalker* |  | UE |
+| *Ice Honkey Test* | 2021.03 ~ 2021.06 | UE4.26 |
+| *FlippedDream* | Graduation project | UE4.26 |
+| *Project: Color* |  | UE5.1 |
+| *Project: DW* |  | UE5.1 |
 
 # Learning
 * C++ (for Unreal Engine)
@@ -40,7 +40,7 @@ Mainly working on game design and development.
 * Artstudio Pro
 * Substance 3D Designer
 * Substance 3D Painter
-* Unreal Engine
+* Unreal Engine 5
 
 # Websites
 * [Artstation](https://www.artstation.com/chaelkenway2001)
