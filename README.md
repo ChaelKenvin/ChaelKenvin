@@ -25,7 +25,7 @@ Mainly working on game design and development.
 |  ----  | ----  | --- |
 | *IslandWar* | 2012.12 ~ now | TableTop |
 | *Ice Honkey Test* | 2021.03 ~ 2021.06 | UE4.26 |
-| *FlippedDream* | Graduation project | UE4.26 |
+| *FlippedDream* | 2022.12 ~ 2023.05 | UE4.26 |
 | *Project: Color* |  | UE5.1 |
 | *Project: DW* |  | UE5.1 |
 
