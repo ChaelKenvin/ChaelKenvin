@@ -46,6 +46,6 @@ Mainly working on game design and development.
 * [Artstation](https://www.artstation.com/chaelkenway2001)
 * [Blog](https://chaelkenway.wordpress.com)
 * [chaelkenway.com](http://www.chaelkenway.com)
-* 微信公众号：行梦灯花
+* 微信公众号：夹谷雨竹
 
 2023年继续努力。
