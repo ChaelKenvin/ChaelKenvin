@@ -2,15 +2,15 @@
 **ChaelKenway/ChaelKenway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-:eyes: A brief introduction here. 
-
-![meme here](https://cdn.jsdelivr.net/gh/ChaelKenway/awesome-image-bed@main/meme1.jpg)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg) st/nd/rd/th visitor.
+<!-- :eyes: A brief introduction here.  -->
 
 # About me 
 
 Game developer.
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.svg) st/nd/rd/th visitor.
+
+![meme here](https://cdn.jsdelivr.net/gh/ChaelKenway/awesome-image-bed@main/meme1.jpg)
 
 My first game/graduation project FlippedDream is now on [Steam](https://store.steampowered.com/app/2430190/_FlippedDream/).
 
