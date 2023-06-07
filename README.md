@@ -16,6 +16,8 @@ My first game/graduation project FlippedDream is now on [Steam](https://store.st
 
 My Indienova page [here](https://indienova.com/u/chaelkenway).
 
+微信公众号：夹谷雨竹
+
 <!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaelKenway&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
