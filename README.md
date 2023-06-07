@@ -10,42 +10,21 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ChaelKenway/count.
 
 # About me 
 
-Senior who majors in Digital Media Technology.
+Game developer.
 
-Mainly working on game design and development.
+My first game/graduation project FlippedDream is now on [Steam](https://store.steampowered.com/app/2430190/_FlippedDream/).
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaelKenway&show_icons=true&theme=tokyonight)
+My Indienova page [here](https://indienova.com/u/chaelkenway).
+
+<!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaelKenway&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaelKenway&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChaelKenway&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChaelKenway&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-# Projects
-| Name | Time | Development Platform |
-|  ----  | ----  | --- |
-| *IslandWar* | 2012.12 ~ now | TableTop |
-| *Ice Honkey Test* | 2021.03 ~ 2021.06 | UE4.26 |
-| *FlippedDream* | 2022.12 ~ 2023.05 | UE4.26 |
-| *Project: City* | 2023.05 ~ now | UE5.0 |
-| *Project: DW* | DK | UE5.0 |
-
-# Learning
-* C++ (for Unreal Engine)
-* ~~HLSL~~
-* Blender
-* Nomad Sculpt
-* Tree It
-* Instant Terra
-* Clip Studio Paint
-* Artstudio Pro
-* Substance 3D Designer
-* Substance 3D Painter
-* Unreal Engine 5
-
-# Websites
+<!-- # Websites
 * [Artstation](https://www.artstation.com/chaelkenway2001)
 * [Blog](https://chaelkenway.wordpress.com)
 * [chaelkenway.com](http://www.chaelkenway.com)
-* 微信公众号：夹谷雨竹
+* 微信公众号：夹谷雨竹 -->
 
-2023年继续努力。
